@@ -4,8 +4,7 @@ In this repository, contains any project that is in development, or has any know
 For any project being updated, its most recent, functional version, will be linked in the 'Repositories'
 
 ## Contents:
-  `blackjack.py`
+  `blackjack.py` - New Project
 
 ## Repositories:
-  `blackjack.py`
-  
+  - [Blackjack-21: v1.0](https://github.com/PrdxGamesMC/Blackjack-21)
